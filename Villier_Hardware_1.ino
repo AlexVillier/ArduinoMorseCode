@@ -1,5 +1,6 @@
 //Author: Alex Villier
 //Date:   3/20/2020
+//YouTube Showcase: https://youtu.be/uoutn9wtW9A
 
 const int ledPin = LED_BUILTIN;
 const char message[] = "GEAUX TIGERS";
